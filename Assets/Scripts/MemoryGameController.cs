@@ -96,9 +96,12 @@ public class MemoryGameController : MonoBehaviour
         foreach (var card in allCards)
         {
             if (!card.IsMatched()) return;
+
+             
         }
 
-        
-         
+        // All matched
+        print("You Win!");
+
     }
 }
