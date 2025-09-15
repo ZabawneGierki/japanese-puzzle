@@ -41,3 +41,9 @@ Bob: We need to talk. 11
 # scene rooftop_evening
 Alice: The sky is beautiful tonight... 12
 ~ LoadScene("Puzzle")
+# scene forest
+Alice: The sky is beautiful tonight... 12
+# scene forest
+Alice: The sky is beautiful tonight... 12
+Alice: The sky is beautiful tonight... 12
+

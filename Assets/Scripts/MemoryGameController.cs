@@ -102,6 +102,8 @@ public class MemoryGameController : MonoBehaviour
 
         // All matched
         print("You Win!");
+        //load dialogue scene
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Dialog");
 
     }
 }
