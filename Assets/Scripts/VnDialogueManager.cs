@@ -102,6 +102,7 @@ public class VNDialogueManager : MonoBehaviour
         {
             dialogueText.text = "";
             speakerText.text = "";
+            Debug.Log("End of story.");
         }
     }
 
