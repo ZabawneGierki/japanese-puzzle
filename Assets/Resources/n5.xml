@@ -77,5 +77,68 @@
 		<jp>anata wa dare desu ka</jp>
 		<en>Who are you?</en>
 	</word>
+	<word>
+		<kanji>ame</kanji>
+		<kana>ame</kana>
+		<translation>candy</translation>
+		<jp>ame desu yo</jp>
+		<en>It's a candy!</en>
+	</word>
+	<word>
+		<kanji>ani</kanji>
+		<kana>ani</kana>
+		<translation>older brother</translation>
+		<jp>watashi no ani wa ringo wo tabemasu</jp>
+		<en>My brother eats an apple.</en>
+	</word>
+	<word>
+		<kanji>ano</kanji>
+		<kana>ano</kana>
+		<translation>that</translation>
+		<jp>ano mahou no hon wa furui desu</jp>
+		<en>This magic book is old.</en>
+	</word>
+	<word>
+		<kanji>aoi</kanji>
+		<kana>aoi</kana>
+		<translation>blue</translation>
+		<jp>Arisu no fuku wa aoi desu</jp>
+		<en>Alice's clothes are blue.</en>
+	</word>
+	<word>
+		<kanji>apaato</kanji>
+		<kana>apaato</kana>
+		<translation>apartment</translation>
+		<jp>Sanae wa ookii apaato wo tazunete iru</jp>
+		<en>Sanae visits a big apartment</en>
+	</word>
+	<word>
+		<kanji>arau</kanji>
+		<kana>arau</kana>
+		<translation>to wash</translation>
+		<jp>Reimu wa fuku wo kawa de arau</jp>
+		<en>Reimu washes her clothes in a river</en>
+	</word>
+	<word>
+		<kanji>are</kanji>
+		<kana>are</kana>
+		<translation>that</translation>
+		<jp>nani are?</jp>
+		<en>What's that?</en>
+	</word>
+	<word>
+		<kanji>aruku</kanji>
+		<kana>aruku</kana>
+		<translation>to walk</translation>
+		<jp>Reimu wa aruku</jp>
+		<en>Reimu walks</en>
+	</word>
+	<word>
+		<kanji>asa</kanji>
+		<kana>asa</kana>
+		<translation>morning</translation>
+		<jp>maiasa jinja wo houki de fukimasu</jp>
+		<en>I sweep the shrine each morning</en>
+	</word>
 	
 </words>
