@@ -1,206 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
 	<word>
-		<kanji>人</kanji>
-		<kana>ひと</kana>
-		<translation>person</translation>
-		<jp>これは たけしさん の いもうと です。</jp>
-		<en>This is Takeshi's younger sister.</en>
+		<kanji>浴びる</kanji>
+		<kana>あびる</kana>
+		<translation>to shower</translation>
+		<jp>Sanae wa shawa wo abiru no ga suki</jp>
+		<en>Sanae likes showering</en>
 	</word>
 	<word>
-		<kanji>学生</kanji>
-		<kana>がくせい</kana>
-		<translation>student</translation>
-		<jp>わたし は がくせい です。</jp>
-		<en>I am a student.</en>
+		<kanji>abunai</kanji>
+		<kana>abunai</kana>
+		<translation>dangerous</translation>
+		<jp>Yuuka Kazami wa abunai</jp>
+		<en>Yuuka kazami is dangerous</en>
 	</word>
 	<word>
-		<kanji>先生</kanji>
-		<kana>せんせい</kana>
-		<translation>teacher</translation>
-		<jp>たけしさん は せんせい です。</jp>
-		<en>Takeshi is a teacher.</en>
+		<kanji>acchi</kanji>
+		<kana>acchi</kana>
+		<translation>there</translation>
+		<jp>attchi ike!</jp>
+		<en>Go away!</en>
 	</word>
 	<word>
-		<kanji>学校</kanji>
-		<kana>がっこう</kana>
-		<translation>school</translation>
-		<jp>がっくに いきます。</jp>
-		<en>I go to school.</en>
+		<kanji>achira</kanji>
+		<kana>achira</kana>
+		<translation>there</translation>
+		<jp>achira ni kinoko ga aru</jp>
+		<en>There's a mushroom there.</en>
 	</word>
 	<word>
-		<kanji>家</kanji>
-		<kana>いえ</kana>
-		<translation>house</translation>
-		<jp>home</jp>
-		<en>いえ に かえります。</en>
+		<kanji>ageru</kanji>
+		<kana>ageru</kana>
+		<translation>to raise, to give</translation>
+		<jp>kinoko wo ageru wa</jp>
+		<en>I will give you a mushroom!</en>
 	</word>
 	<word>
-		<kanji>友達</kanji>
-		<kana>ともだち</kana>
-		<translation>friend</translation>
-		<jp>これは わたし の ともだち です。</jp>
-		<en>This is my friend.</en>
-	</word>
-	<word>
-		<kanji>名前</kanji>
-		<kana>なまえ</kana>
-		<translation>name</translation>
-		<jp>あなたの なまえ は なん です か？</jp>
-		<en>What is your name?</en>
-	</word>
-	<word>
-		<kanji>男</kanji>
-		<kana>おとこ</kana>
-		<translation>man</translation>
-		<jp>あの ひと は おとこ です。</jp>
-		<en>That person is a man.</en>
-	</word>
-	<word>
-		<kanji>女</kanji>
-		<kana>おんな</kana>
-		<translation>woman</translation>
-		<jp>あの かた は おんな の ひと です。</jp>
-		<en>That person is a woman.</en>
-	</word>
-	<word>
-		<kanji>日本</kanji>
-		<kana>にほん</kana>
-		<translation>Japan</translation>
-		<jp>わたし は にほん に すんで います。</jp>
-		<en>I live in Japan.</en>
-	</word>
-	<word>
-		<kanji>国</kanji>
-		<kana>くに</kana>
-		<translation>country</translation>
-		<jp>あなたの くに は どこ です か？</jp>
-		<en>Which country are you from?</en>
-	</word>
-	<word>
-		<kanji>車</kanji>
-		<kana>くるま</kana>
-		<translation>car</translation>
-		<jp>あの くるま は あおい です。</jp>
-		<en>That car is blue.</en>
-	</word>
-	<word>
-		<kanji>電話</kanji>
-		<kana>でんわ</kana>
-		<translation>telephone</translation>
-		<jp>でんわ は どこ です か？</jp>
-		<en>Where is the telephone?</en>
-	</word>
-	<word>
-		<kanji>時計</kanji>
-		<kana>とけい</kana>
-		<translation>clock</translation>
-		<jp>watch</jp>
-		<en>とけい が あります。</en>
-	</word>
-	<word>
-		<kanji>本</kanji>
-		<kana>ほん</kana>
-		<translation>book</translation>
-		<jp>これは にほんご の ほん です。</jp>
-		<en>This is a Japanese book.</en>
-	</word>
-	<word>
-		<kanji>水</kanji>
-		<kana>みず</kana>
-		<translation>water</translation>
-		<jp>みず を のみます。</jp>
-		<en>I drink water.</en>
-	</word>
-	<word>
-		<kanji>食べ物</kanji>
-		<kana>たべもの</kana>
-		<translation>food</translation>
-		<jp>すしが すきな たべもの です。</jp>
-		<en>Sushi is my favorite food.</en>
-	</word>
-	<word>
-		<kanji>飲み物</kanji>
-		<kana>のみもの</kana>
-		<translation>drink</translation>
-		<jp>beverage</jp>
-		<en>おちゃ の のみもの が すき です。</en>
-	</word>
-	<word>
-		<kanji>猫</kanji>
-		<kana>ねこ</kana>
-		<translation>cat</translation>
-		<jp>あの いえ に ねこ が います。</jp>
-		<en>There is a cat in that house.</en>
-	</word>
-	<word>
-		<kanji>犬</kanji>
-		<kana>いぬ</kana>
-		<translation>dog</translation>
-		<jp>いぬ は ちいさい です。</jp>
-		<en>The dog is small.</en>
-	</word>
-	<word>
-		<kanji>大きい</kanji>
-		<kana>おおきい</kana>
-		<translation>big</translation>
-		<jp>large</jp>
-		<en>この かばん は おおきい です。</en>
-	</word>
-	<word>
-		<kanji>小さい</kanji>
-		<kana>ちいさい</kana>
-		<translation>small</translation>
-		<jp>その ねこ は ちいさい です。</jp>
-		<en>That cat is small.</en>
-	</word>
-	<word>
-		<kanji>新しい</kanji>
-		<kana>あたらしい</kana>
-		<translation>new</translation>
-		<jp>あたらしい じてんしゃ です。</jp>
-		<en>It is a new bicycle.</en>
-	</word>
-	<word>
-		<kanji>古い</kanji>
-		<kana>ふるい</kana>
-		<translation>old</translation>
-		<jp>この とけい は ふるい です。</jp>
-		<en>This clock is old.</en>
-	</word>
-	<word>
-		<kanji>赤い</kanji>
-		<kana>あかい</kana>
+		<kanji>akai</kanji>
+		<kana>akai</kana>
 		<translation>red</translation>
-		<jp>あかい りんご が すき です。</jp>
-		<en>I like red apples.</en>
+		<jp>kono kinoko wa akai desu </jp>
+		<en>This mushroom is red.</en>
 	</word>
 	<word>
-		<kanji>青い</kanji>
-		<kana>あおい</kana>
-		<translation>blue</translation>
-		<jp>あおい そら が きれい です。</jp>
-		<en>The blue sky is beautiful.</en>
+		<kanji>akarui</kanji>
+		<kana>akarui</kana>
+		<translation>bright</translation>
+		<jp>konya akarui desu</jp>
+		<en>it's a bright night</en>
 	</word>
 	<word>
-		<kanji>黒い</kanji>
-		<kana>くろい</kana>
-		<translation>black</translation>
-		<jp>くろい ぶんぼうぐ があります。</jp>
-		<en>There is a black pen.</en>
+		<kanji>akeru</kanji>
+		<kana>akeru</kana>
+		<translation>to open</translation>
+		<jp>Cirno wa hako wo akeru</jp>
+		<en>Cirno opens a box</en>
 	</word>
 	<word>
-		<kanji>白い</kanji>
-		<kana>しろい</kana>
-		<translation>white</translation>
-		<jp>しろい とり が そら を とびます。</jp>
-		<en>A white bird flies in the sky.</en>
+		<kanji>amai</kanji>
+		<kana>amai</kana>
+		<translation>sweet</translation>
+		<jp>kono ringo wa amai desu</jp>
+		<en>This apple is sweet</en>
 	</word>
 	<word>
-		<kanji>悪い</kanji>
-		<kana>わるい</kana>
-		<translation>bad</translation>
-		<jp>あの き は わるい です。</jp>
-		<en>That tree is bad. (e.g., dying or unhealthy)</en>
+		<kanji>ame</kanji>
+		<kana>ame</kana>
+		<translation>rain</translation>
+		<jp>ame ga furu</jp>
+		<en>it's raining</en>
 	</word>
+	<word>
+		<kanji>anata</kanji>
+		<kana>anata</kana>
+		<translation>you</translation>
+		<jp>anata wa dare desu ka</jp>
+		<en>Who are you?</en>
+	</word>
+	
 </words>
