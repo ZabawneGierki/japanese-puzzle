@@ -3,7 +3,10 @@ EXTERNAL LoadScene(sceneName)
 # scene village
 # sprite Red happy
 
-Once upon a time there lived in a certain village a little country girl, the prettiest creature who was ever seen. Her mother was excessively fond of her; and her grandmother doted on her still more. This good woman had a little red riding hood made for her. It suited the girl so extremely well that everybody called her Little Red Riding Hood.
+Once upon a time there lived in a certain village a little country girl, the prettiest creature who was ever seen.
+Her mother was excessively fond of her; and her grandmother doted on her still more.
+This good woman had a little red riding hood made for her. 
+It suited the girl so extremely well that everybody called her Little Red Riding Hood.
 
 # sprite Cirno happy
 Bob: We need to talk. 2
