@@ -57,15 +57,15 @@
 		<en>Cirno opens a box</en>
 	</word>
 	<word>
-		<kanji>amai</kanji>
-		<kana>amai</kana>
+		<kanji>甘い</kanji>
+		<kana>あまい</kana>
 		<translation>sweet</translation>
-		<jp>kono ringo wa amai desu</jp>
+		<jp>このりんごは甘いです</jp>
 		<en>This apple is sweet</en>
 	</word>
 	<word>
-		<kanji>ame</kanji>
-		<kana>ame</kana>
+		<kanji>雨</kanji>
+		<kana>あめ</kana>
 		<translation>rain</translation>
 		<jp>ame ga furu</jp>
 		<en>it's raining</en>
